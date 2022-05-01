@@ -1,5 +1,5 @@
 {
-    "name": "ratuscraftbot",
+    "name": "alsy-command-bot",
     "version": "1.0.0",
     "description": "A bot to manage commands",
     "main": "main.js",
