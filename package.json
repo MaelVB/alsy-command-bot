@@ -1,0 +1,23 @@
+{
+    "name": "ratuscraftbot",
+    "version": "1.0.0",
+    "description": "A bot to manage commands",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node --experimental-json-modules main.js",
+        "start:dev": "nodemon --experimental-json-modules main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "MaelVB",
+    "license": "ISC",
+    "dependencies": {
+        "cron": "^1.8.2",
+        "discord.js": "^12.5.3",
+        "edit-json-file": "^1.6.0",
+        "got": "^11.8.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
