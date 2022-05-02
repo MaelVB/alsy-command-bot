@@ -182,3 +182,5 @@ client.on("message", async (message) => {
         console.error(err);
     }
 });
+
+client.login(config.default.botToken);

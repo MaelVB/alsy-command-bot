@@ -12,10 +12,10 @@
     "author": "MaelVB",
     "license": "ISC",
     "dependencies": {
-        "cron": "^1.8.2",
+        "cron": "1.8.3",
         "discord.js": "^12.5.3",
-        "edit-json-file": "^1.6.0",
-        "got": "^11.8.2"
+        "edit-json-file": "1.7.0",
+        "got": "12.0.4"
     },
     "devDependencies": {
         "nodemon": "^2.0.7"
